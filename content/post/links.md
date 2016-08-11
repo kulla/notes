@@ -3,7 +3,7 @@ categories = ["Allgemeines"]
 date = "2016-08-11T13:07:43+02:00"
 draft = false
 slug = "links"
-tags = ["Web", "Quellen"]
+tags = ["Quellen"]
 title = "Nützliche Links"
 
 +++

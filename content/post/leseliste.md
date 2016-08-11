@@ -3,7 +3,7 @@ categories = ["Allgemeines"]
 date = "2016-08-11T13:48:53+02:00"
 draft = false
 slug = "leseliste"
-tags = ["Literatur", "Quellen"]
+tags = ["Quellen"]
 title = "Leseliste"
 
 +++
