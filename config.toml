@@ -1,3 +1,4 @@
 baseurl = "http://notes.kulla.me/"
 languageCode = "de"
 title = "Notizen"
+theme = "geppaku"
