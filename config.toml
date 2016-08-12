@@ -1,4 +1,4 @@
-baseurl = "http://notes.kulla.me/"
+baseurl = "http://www.doc.ma.edu.tum.de/kulla/notes/"
 languageCode = "de"
 title = "Notizen"
 theme = "geppaku"
