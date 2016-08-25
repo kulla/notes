@@ -4,5 +4,8 @@ title = "Notizen"
 theme = "geppaku"
 copyright = "Theme [Geppaku](http://themes.gohugo.io/hugo-theme-geppaku) by [Masashi Tsuru](http://2626.info/)."
 
+[params]
+    mathjax = true
+
 [author]
     name = "Stephan Kulla"
