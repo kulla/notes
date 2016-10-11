@@ -36,9 +36,33 @@ categories = [
     * Unterstützung durch Lehraktivität, Gestaltung von Lerngelegenheiten, Lernumgebung und Lernatmosphäre
     * Scaffolding = Gerüst für den Lernenden bauen
 
+### Constructive Alignment
+
+* Ablauf:
+    1. Lernergebnisse definieren (Zielgruppenanalyse, Transparenz = müssen den Lernenden bekannt sein; Lastenheft = Definition der Lernziele für den Lehrenden)
+    2. Prüfungsformat (Prüfungen steuern das Lernen; Testumgebung definieren; Transparenz = müssen dem Lernenden bekannt seinü)
+    3. Lehr-/Lernmethoden (Pflichtenheft = Beschreibung der Lernmethoden, die der Lehrende einsetzen will)
+* Punkte der Methode bedingen sich gegenseitig
+
+#### Lernergebnisse
+
+* Definition des Kompetenzzuwachs
+* muss den Lernenden transparent sein
+* Taxonomie kognitiver Lernergebnisse nach Bloom (1956) bzw. Anderson & Krathwohl (2002):
+    1. Erinnern
+    2. Verstehen
+    3. Anwenden
+    4. Analysieren
+    5. Bewerten
+    6. Entwickeln
+* Probleme: Schemaverfahren können ohne Verstehen verwendet werden
+* Kritik: Die Taxonomie ist total geordnet, obwohl sie im wirklichen Leben 
+
 ## Ideen
 
 * Studium, in dem kein Modulpaket „verkauft“, sondern gewisse Module „verkauft“ werden. Jeder Studierende kann sich hier ein Studium individuell zusammenbuchen.
     * Bagdes für bestimmte Pakete
 
+## ToDo MFNF
 
+* Zielgruppenanalyse

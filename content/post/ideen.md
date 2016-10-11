@@ -25,4 +25,8 @@ tags = [
 * Englisch reicht für Universitäten (Veranstaltungen finden in Englisch statt)
 * In der arabischen Welt gibt es private Schulen, an denen von Anfang an Englisch (früher Französich) unterrichtet wird. Diese Schulen können sich nur reiche Familien leisten (Achtung: Bildungsungerechtigkeit).
 * Eine englische Version reicht für die Studierenden, eine Version im Arabischen hat aber Vorteile (könnte ein Beitrag für mehr Bildungsgerechtigkeit zu sein).
+
+## MFNF
+
+* Ziele als Kompetenzzuwächse definieren (transparent für Leser / Leserinnen)
 * Serlo ABC für das Arabische, Kyrillische und andere Schriftsysteme?!
