@@ -58,6 +58,23 @@ categories = [
 * Probleme: Schemaverfahren können ohne Verstehen verwendet werden
 * Kritik: Die Taxonomie ist total geordnet, obwohl sie im wirklichen Leben 
 
+## Prüfungen
+
+* Unterscheidung „Summative Prüfungen“ (ergebnisorientiert) vs. „Formative Prüfungen“ (prozessorientiert)
+* Funktionen:
+    * regen zum Lernen an
+    * strukturieren das Semester
+    * steuern das Lernen
+* Anforderungen an Prüfungen:
+    * Objektivität (Auswertung, Durchführung, Interpretation der Prüfung sollte möglichst unabhängig vom Prüfenden sein)
+        * Nach Aufgaben und nicht nach Personen korrigieren, Matrikelnummer aufschreiben, Musterlösung bzw. -interpretation
+    * Messgenauigkeit (wie genau misst eine Prüfung die Leistung)
+        * viele und möglichst unabhängige Aufgaben
+        * mittelschwere Aufgaben
+        * präzise Aufgabenstellung, Klarheit über die Form der Ergebnisdarstellung
+    * Validität (misst die Prüfung auch die erklärten Lernziele)
+        * repräsentative Abfrage der Vorlesungsinhalte
+
 ## Ideen
 
 * Studium, in dem kein Modulpaket „verkauft“, sondern gewisse Module „verkauft“ werden. Jeder Studierende kann sich hier ein Studium individuell zusammenbuchen.
