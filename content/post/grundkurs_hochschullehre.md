@@ -44,7 +44,7 @@ categories = [
     3. Lehr-/Lernmethoden (Pflichtenheft = Beschreibung der Lernmethoden, die der Lehrende einsetzen will)
 * Punkte der Methode bedingen sich gegenseitig
 
-#### Lernergebnisse
+### Lernergebnisse
 
 * Definition des Kompetenzzuwachs
 * muss den Lernenden transparent sein
@@ -57,6 +57,41 @@ categories = [
     6. Entwickeln
 * Probleme: Schemaverfahren können ohne Verstehen verwendet werden
 * Kritik: Die Taxonomie ist total geordnet, obwohl sie im wirklichen Leben 
+
+### ARIVA
+
+Modell:
+
+1. Ausrichten (Aufmerksam der Studierenden auf LV fokusieren)
+2. Reaktivieren (Wiederholung bestehendes Wissen; Aktivierung der Studierenden; kognitive Aktivierung)
+3. Informieren (Wissensvermittlung; < 20min)
+    * Lehrvideos sollten maximal 5-6 Minuten sein
+4. Verarbeiten (Anwendung, aktive Beschäftigung mit dem neuen Stoff)
+5. Auswertung / Absicherung (Feedback geben)
+
+Tipps / Infos:
+
+* Rythmisierung (Wechsel von Inhalten, Medium, Methodik, Sozialform (z.B. Gruppen- / Einzelarbeit))
+* Vorwissen ist eines der wichtigsten Faktoren für Lernerfolg
+    * Brücken bauen zum Vorwissen
+* Gruppenpuzzle (Studierende unterstützen sich gegenseitig)
+    * Möglichkeit: „Hey ..., du bist doch Experte in diesem Fachgebiet. Magst du nicht dieser Gruppe helfen?“
+* Räumliche Aufstellung: Gruppe stellt sich auf bzgl Fragen: „Wie gut kennst du dich schon im Gesundheitssystem aus?“
+
+Die erste Stunde:
+
+* Kontakt
+* Orientierung
+* Motivation
+
+Kleingruppenmethoden:
+
+* Partnerinterview
+* Kartenabfrage
+* Mindmapping / konzeptionelle Landkarte
+    * Prüfungsfrage: Punkte der Vorlesung nehmen und Lernender soll diese in eine sinnvolle Ordnung bringen
+* Brainwritting
+* Panel-Diskussion / Fish Bowl
 
 ## Prüfungen
 
