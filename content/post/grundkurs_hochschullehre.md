@@ -110,6 +110,24 @@ Kleingruppenmethoden:
     * Validität (misst die Prüfung auch die erklärten Lernziele)
         * repräsentative Abfrage der Vorlesungsinhalte
 
+## Formative Rückmeldungen / Feedback
+
+### Wie?
+
+* verbesserungsorientiert
+* aufgabenbezogen
+* sachlich
+* wertschätzend
+* zeitnah
+* Feed Up, Feed Back. Feed Forward:
+    * Wo steht der Lernende?
+    * Wo soll der Lernende hin?
+    * Wie schafft er es? Strategiemöglichkeiten?
+
+### Peer-Instructions
+
+* Irritationsfragen sind möglich (bei Pingo ist auch mehr als eine Antwort möglich)
+
 ## Ideen
 
 * Studium, in dem kein Modulpaket „verkauft“, sondern gewisse Module „verkauft“ werden. Jeder Studierende kann sich hier ein Studium individuell zusammenbuchen.
